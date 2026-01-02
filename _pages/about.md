@@ -23,6 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Contact: willis.jack.james@gmail.com
 
 I'm a part-time PhD student at the University of Sussex supervised by Chris Buckley. I'm concerned with the concentration of AI-related capital (the AI artefacts themselves, GPUs, energy...) in the hands of the few, particularly those who already hold an excessive concentration of the capital prior to the recent AI funding boom. The open-source movement was thought to be a means of ensuring that this kind of thing didn't happen, but the reliance of models on GPUs makes simply sharing weights not enough. What is needed is a framework for distributed intelligence, where the public are empowered by supporting one another in each of the scaling law dimensions (parameters, compute, data), where centralization doesn't exist, and where collectively we can enable AI applications on a scale inaccessible to orgs concentrated in a single place.
 
