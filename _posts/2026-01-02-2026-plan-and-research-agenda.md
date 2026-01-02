@@ -60,7 +60,7 @@ Remember when the Mayan calander predicted that the world would end? Remember wh
 "I hear Christine singing:
 'O Love, that will not let me go, 
 I rest my weary sould in Thee!' 
-Sing, Christine, sing! Be not bitter, as Lot's wife was. Forgive them, forgive them; for they have loved much!... I wish I could live my life again. I wish I could write my story again. I have judged people. I do not want to judge people. I want to bless. I want to bless every sould who have ever lived and laughed and suffered on this whore of an island, this island in the sun, this island in God's sea!
+Sing, Christine, sing! Be not bitter, as Lot's wife was. Forgive them, forgive them; for they have loved much!... I wish I could live my life again. I wish I could write my story again. I have judged people. I do not want to judge people. I want to bless. I want to bless every soul who have ever lived and laughed and suffered on this whore of an island, this island in the sun, this island in God's sea!
 I am on the last page of the last of my three big books. Who will ever believe I have written these three big books? I want to write another. Next time I go to Town, I will buy another from the Press. I want to write down in it all the good thoughts I have left out in this. Now it is high time I thought of going to bed. I mustn't forget to wind the clock; and I will turn the lamp down, but not right out. I don't like it in the dark. I like to be able to see my two china dogs while I am falling asleep. Damme, I am tired, me! I will sleep well tonight, I know. Ah well, that is all for now. A la prochaine!" Ebenezer Le Page.
 
 # BIB
