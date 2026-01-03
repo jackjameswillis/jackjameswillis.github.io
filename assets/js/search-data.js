@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-2026-introduction-to-the-new-year",
+        },{id: "post-two-moons-binary-weight-neural-networks-and-evolution",
+        
+          title: "Two Moons, Binary Weight Neural Networks, and Evolution",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/two-moons-ga/";
+          
+        },
+      },{id: "post-2026-introduction-to-the-new-year",
         
           title: "2026 — introduction to the New Year",
         
