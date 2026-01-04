@@ -41,7 +41,7 @@ But why binary weights? Generally speaking, binary weights are valuable because 
 
 It's not all good news though. There's a huge problem with networks with discrete weights like binary weight networks. They are non-differentiable, meaning they cannot be trained in the standard way. The literature on training recipes that allow discrete networks to be trained is part of a field called quantization-aware training, and essentially gives up on discrete weights during training. This field is extremely dense, and I will not go into it here, but the TLDR is that quantization-aware training is at least as expensive in speed and memory as training more expressive models, but does work, and produces substantially more efficient networks when training is over.
 
-# Evolution in a Globally Connected World
+# Evolution
 
 There is a space of algorithms that can train a discrete model without disregarding the discrete part. It is called combinatorial optimization, and encapsulates a vast array of algorithms also known as 'good old fashioned AI'. One family of computational paradigms within this umbrella is the evolutionary paradigm, which has the superpower of being a distributed method. Like evolution by natural selection, where populations change over time through competition, reproduction, and heredity between individuals, evolutionary computation gives parts of the optimization process to different computers, allowing them to progress through time independently and simultaneously. This provides similar benefits to what GPUs provide for normal training methods, but importantly doesn't rely on analytic gradients. In other words, we can train our efficient binary weight network via evolution without resorting to the GPU, if we have many CPUs. Thankfully, CPUs are cheap to rent if you don't have a couple of thousand desktops lying around, but our toy problem is a nice size for simulating the evolutionary process on even a laptop.
 
@@ -51,9 +51,13 @@ An advantage to simulation is that we can freely manipulate the topology of the 
     {% include figure.liquid loading="eager" path="assets/img/full_analysis.png" class="img-fluid rounded z-depth-1" %}
 </div>
 
+The bottom right shows the output behaviour of the best individual of our population in the final generation, while the other plots show how the performance of the average performance of members of the population changes over time. We haven't found the optimal solution, that much is clear, but it seems like we are getting close, and there's potentially room for improvement if we allow for more generations.
+
+These results are honestly not great, but that is what I expect. Globally connected evolution and a small population is a recipe for bad phenotypes (i.e. output behaviour), but there is so much left to be explored here that can potentially improve our outcome.
+
 # Concluding Remarks
 
-Next step: Deep dive into evolutionary computation
+In the next blog posts we will be taking a deeper dive into the parameters of this experiment, first tackling the vast space of evolutionary operators.
 
 # Bib
 
