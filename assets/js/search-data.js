@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/two-moons-ga/";
           
         },
+      },{id: "post-a-ramble-on-quantized-neural-networks",
+        
+          title: "A Ramble on Quantized Neural Networks",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/quantized-ramble/";
+          
+        },
       },{id: "post-2026-introduction-to-the-new-year",
         
           title: "2026 — introduction to the New Year",
