@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Ramble on Quantized Neural Networks"
-date: 2026-01-02
+date: 2026-01-04
 author: "Jack James Willis"
 categories: [research, ramble]
 tags: [binary, optimization]
