@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-ramble-on-quantized-neural-networks",
+        },{id: "post-global-microbial-genetics",
+        
+          title: "Global Microbial Genetics",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/first-alife/";
+          
+        },
+      },{id: "post-a-ramble-on-quantized-neural-networks",
         
           title: "A Ramble on Quantized Neural Networks",
         
