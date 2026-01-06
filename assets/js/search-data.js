@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-global-microbial-genetics",
+        },{id: "post-global-microbial-genetics-ep-1-decision-boundaries-varying-loss-and-hidden-activation",
         
-          title: "Global Microbial Genetics",
+          title: "Global Microbial Genetics Ep 1. Decision Boundaries Varying Loss and Hidden Activation",
         
         description: "",
         section: "Posts",
