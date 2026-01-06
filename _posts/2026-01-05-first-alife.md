@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Global Microbial Genetics"
+title: "Global Microbial Genetics Ep 1. Decision Boundaries Varying Loss and Hidden Activation"
 date: 2026-01-05
 author: "Jack James Willis"
 categories: [research, ALIFE2026]
