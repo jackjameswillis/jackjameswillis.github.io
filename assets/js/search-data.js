@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-global-microbial-genetics-ep-1-decision-boundaries-varying-loss-and-hidden-activation",
+        },{id: "post-global-microbial-genetics-ep-2-decision-boundaries-varying-quantization-and-activation",
+        
+          title: "Global Microbial Genetics Ep. 2 Decision Boundaries Varying Quantization and Activation",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/second-alife/";
+          
+        },
+      },{id: "post-global-microbial-genetics-ep-1-decision-boundaries-varying-loss-and-hidden-activation",
         
           title: "Global Microbial Genetics Ep 1. Decision Boundaries Varying Loss and Hidden Activation",
         
