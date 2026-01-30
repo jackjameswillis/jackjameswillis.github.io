@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-global-microbial-genetics-ep-2-decision-boundaries-varying-quantization-and-activation",
+        },{id: "post-returning-to-research-lessons-from-the-field",
+        
+          title: "Returning to Research: Lessons from the Field",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/return/";
+          
+        },
+      },{id: "post-global-microbial-genetics-ep-2-decision-boundaries-varying-quantization-and-activation",
         
           title: "Global Microbial Genetics Ep. 2 Decision Boundaries Varying Quantization and Activation",
         
